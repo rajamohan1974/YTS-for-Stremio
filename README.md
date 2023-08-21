@@ -1,5 +1,5 @@
-# pct-addon
-popcorn time add-on for stremio; takes the same content as popcorn time
+# YTS for Stremio
+YTS add-on for stremio; takes the same content as popcorn time
 
 ## What is this
 Popcorn Time-inspired add-on for stremio, adds EZTV and YTS sources
