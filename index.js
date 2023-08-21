@@ -152,7 +152,7 @@ function indexShow(show) {
             } catch(e) { console.error('magnet.decode', e) }
         });
         var m = map[hash];
-        if (m['0'] && (m['1080p'] == m['0'] || m['720p'] == m['0'] || m['480p'] == m['0'])) delete m['0'];
+        if (m['0'] && (m['2160p'] == m['0'] || m['0'] && (m['1080p'] == m['0'] || m['720p'] == m['0'] || m['480p'] == m['0'])) delete m['0'];
     });
 }
 
