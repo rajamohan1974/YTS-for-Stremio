@@ -1,0 +1,11 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+            git clone https://github.com/JCB9090/pct-addon
+cd pct-addon
+npm install
+node index
+        }
+    ]
+}
