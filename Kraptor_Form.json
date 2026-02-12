@@ -1,0 +1,71 @@
+﻿{
+  "name": "Kraptor's Repository",
+  "version": "1.0.0",
+  "scrapers": [
+    {
+      "id": "18EU",
+      "name": "18EU",
+      "description": "Watch full EURO Movies with Full Frontal Nudity",
+      "version": "1.0.0",
+      "author": "ByAyzen",
+      "supportedTypes": ["NSFW"],
+      "filename": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/18EU.cs3",
+      "enabled": true,
+      "formats": ["mp4"],
+      "logo": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://18eu.net&size=128",
+      "contentLanguage": ["en"]
+    },
+    {
+      "id": "AdultDeepFakes",
+      "name": "AdultDeepFakes",
+      "description": "!Fake Videos! We are the best source of deepfake porn videos.",
+      "version": "1.0.0",
+      "author": "kraptor",
+      "supportedTypes": ["NSFW"],
+      "filename": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/AdultDeepFakes.cs3",
+      "enabled": true,
+      "formats": ["mp4"],
+      "logo": "https://www.google.com/s2/favicons?sz=128&domain=https://adultdeepfakes.com",
+      "contentLanguage": ["en"]
+    },
+    {
+      "id": "AdultTvChannels",
+      "name": "AdultTvChannels",
+      "description": "Watch free adult TV channels online",
+      "version": "2.0.0",
+      "author": "kraptor",
+      "supportedTypes": ["NSFW"],
+      "filename": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/AdultTvChannels.cs3",
+      "enabled": true,
+      "formats": ["mp4"],
+      "logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://adult-tv-channels.com&size=128",
+      "contentLanguage": ["en"]
+    },
+    {
+      "id": "Aflamk",
+      "name": "Aflamk",
+      "description": "Xnxx افلام سكس عربي و اجنبى سكس نسوانجى محجبات سكس مترجم عربى...",
+      "version": "2.0.0",
+      "author": "kraptor",
+      "supportedTypes": ["NSFW"],
+      "filename": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/Aflamk.cs3",
+      "enabled": true,
+      "formats": ["mp4"],
+      "logo": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.aflamk1.net&size=16",
+      "contentLanguage": ["ar"]
+    },
+    {
+      "id": "AZNude",
+      "name": "AZNude",
+      "description": "Welcome to AZNUDE! Universe of celebrity nudity.",
+      "version": "7.0.0",
+      "author": "kraptor",
+      "supportedTypes": ["NSFW"],
+      "filename": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/AZNude.cs3",
+      "enabled": true,
+      "formats": ["mp4"],
+      "logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.aznude.com/&size=48",
+      "contentLanguage": ["en"]
+    }
+  ]
+}
