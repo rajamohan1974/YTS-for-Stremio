@@ -1,0 +1,22 @@
+{
+  "id": "org.stremio.tmdb.movie.ta.1901-01-01.date.desc",
+  "version": "1.0.0",
+  "name": "Newest Tamil Movies (1901-2100)",
+  "description": "Displays newest Tamil movies from 1901-01-01 to 2100-12-31. Author: Raja Mohan",
+  "resources": [
+    "catalog"
+  ],
+  "types": [
+    "movie"
+  ],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "tmdb_movie_custom",
+      "name": "Newest (Tamil)"
+    }
+  ],
+  "idPrefixes": [
+    "tmdb"
+  ]
+}
